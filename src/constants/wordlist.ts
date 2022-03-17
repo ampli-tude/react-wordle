@@ -35,4 +35,6 @@ export const WORDS = [
   'ratio',
   'liked',
   'react',
+  'clint',
+  'sadge',
 ]
