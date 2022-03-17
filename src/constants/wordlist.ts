@@ -28,4 +28,7 @@ export const WORDS = [
   'wheel',
   'snipe',
   'fishy',
+  'drake',
+  'clint',
+  'sadge',
 ]
