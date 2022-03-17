@@ -18,6 +18,9 @@ export const Navbar = ({
 }: Props) => {
   return (
     <div className="navbar">
+      <div className="float-left">
+        <img src="./handshake.png" alt="logo" width="250" height="100"></img>
+      </div>
       <div className="navbar-content px-5">
         <InformationCircleIcon
           className="h-6 w-6 mr-2 cursor-pointer dark:stroke-white"

@@ -28,4 +28,11 @@ export const WORDS = [
   'wheel',
   'snipe',
   'fishy',
+  'drake',
+  'ceobe',
+  'surtr',
+  'saria',
+  'ratio',
+  'liked',
+  'react',
 ]
