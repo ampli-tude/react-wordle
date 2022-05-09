@@ -60,4 +60,12 @@ export const WORDS = [
   'mitch',
   'shame',
   'beans',
+  'borpa',
+  'anime',
+  'muted',
+  'lobby',
+  'grind',
+  'sussy',
+  'primo',
+  'sales',
 ]
