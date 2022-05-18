@@ -68,4 +68,12 @@ export const WORDS = [
   'sussy',
   'primo',
   'sales',
+  'yelan',
+  'clues',
+  'scams',
+  'voice',
+  'crack',
+  'cheat',
+  'bedge',
+  'stabs',
 ]
